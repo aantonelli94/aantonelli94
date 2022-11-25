@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrea Antonelli, a postdoctoral fellow at Johns Hopkins University.
-- 👀 I’m interested in using data and statistics to gain insight into complex problems, such as deciphering the origin of black holes.
+- 👀 I’m interested in using data and statistics to gain insight into complex problems. Currently I'm involved in deciphering the origin and nature of black holes.
 - 🌱 I’m continuously learning machine-learning and deep-learning techniques, and currently dabble in JAX, Google Colab, and more!
 - 📫 You can reach me at andrico@hotmail.it
 
